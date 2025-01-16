@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^21.0.3",
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "@cypress/webpack-preprocessor": "^6.0.2",
+    "cypress": "^13.17.0",
     "mocha-multi": "^1.1.7",
     "sinon": "^19.0.2"
   },
