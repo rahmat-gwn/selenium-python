@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^21.0.3",
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "@cypress/webpack-preprocessor": "^6.0.2",
+    "cypress": "^13.17.0",
+    "mocha-multi": "^1.1.7",
+    "newman": "^6.2.1",
+    "sinon": "^19.0.2"
+  },
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "jest": "^29.7.0",
+    "mocha": "^11.0.1"
+  }
+}
